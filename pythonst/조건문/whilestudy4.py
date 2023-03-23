@@ -25,3 +25,6 @@ while i <= 5:
   print(sum)
   i += 1
 print("sum :", sum)
+
+
+#깃허브업로드확인
