@@ -8,6 +8,10 @@
 # for i in range(10, 1, -1):
 #   print(i)
 
+# a = [10, 20, 30, 40]
+# for i in range(len(a) -1, -1, -1):
+#   print(a[i])
+
 a = [10, 20, 30, 40]
 for i in range(len(a) -1, -1, -1):
   print(a[i])
